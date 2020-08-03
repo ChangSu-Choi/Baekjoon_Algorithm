@@ -30,5 +30,6 @@ int main()
 
 	}
 	cout << a[1];
-
+	
+	return 0;
 }

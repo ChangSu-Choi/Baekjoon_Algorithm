@@ -19,4 +19,5 @@ int main()
 	aver /= 5;
 	cout << aver;
 
+	return 0;
 }
