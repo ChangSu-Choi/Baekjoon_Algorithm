@@ -7,29 +7,27 @@ int main()
 	cin.tie(NULL);
 
 	int a[3], temp = 0;
+	cin >> a[0] >> a[1] >> a[2];
 
 	for (int i = 0; i < 3; i++)
-	{
-		cin >> a[i];
-	}
 
-	for (int i = 0; i < 3; i++)
-	{
-		if (a[i] > a[i+1])
-		{
-			temp = a[i];
-			a[i] = a[i + 1];
-			a[i + 1] = temp;
-		}
-		if (i > 0 && a[i] < a[i - 1])
-		{
-			temp = a[i - 1];
-			a[i - 1] = a[i];
-			a[i] = temp;
-		}
+		for (int j = 0; j < 2; j++)
 
-	}
+			if (a[j] >= a[j + 1]) {
+
+				temp = a[j];
+
+				a[j] = a[j + 1];
+
+				a[j + 1] = temp;
+
+			}
+
 	cout << a[1];
+
+	return 0;
+
+
 	
 	return 0;
 }
