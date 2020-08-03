@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "평균점수", "Algorithm\Algorithm.vcxproj", "{D54DB2CE-415E-49DB-9A10-87E369128F75}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10039평균점수", "Algorithm\Algorithm.vcxproj", "{D54DB2CE-415E-49DB-9A10-87E369128F75}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5543상근날드", "Project1\Project1.vcxproj", "{E46ECCAF-4237-451E-B8D1-B57D3409E240}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10817 세 수", "10817 세 수\10817 세 수.vcxproj", "{1C3A4BFD-EA03-41B4-9023-A72F91F9B629}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{E46ECCAF-4237-451E-B8D1-B57D3409E240}.Release|x64.Build.0 = Release|x64
 		{E46ECCAF-4237-451E-B8D1-B57D3409E240}.Release|x86.ActiveCfg = Release|Win32
 		{E46ECCAF-4237-451E-B8D1-B57D3409E240}.Release|x86.Build.0 = Release|Win32
+		{1C3A4BFD-EA03-41B4-9023-A72F91F9B629}.Debug|x64.ActiveCfg = Debug|x64
+		{1C3A4BFD-EA03-41B4-9023-A72F91F9B629}.Debug|x64.Build.0 = Debug|x64
+		{1C3A4BFD-EA03-41B4-9023-A72F91F9B629}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C3A4BFD-EA03-41B4-9023-A72F91F9B629}.Debug|x86.Build.0 = Debug|Win32
+		{1C3A4BFD-EA03-41B4-9023-A72F91F9B629}.Release|x64.ActiveCfg = Release|x64
+		{1C3A4BFD-EA03-41B4-9023-A72F91F9B629}.Release|x64.Build.0 = Release|x64
+		{1C3A4BFD-EA03-41B4-9023-A72F91F9B629}.Release|x86.ActiveCfg = Release|Win32
+		{1C3A4BFD-EA03-41B4-9023-A72F91F9B629}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
