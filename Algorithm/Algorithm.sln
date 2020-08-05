@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2577숫자의 개수", "257
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3052나머지", "3052나머지\3052나머지.vcxproj", "{8A4326DE-D876-4D48-9C5E-6FAD783D899D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1546평균", "1546평균\1546평균.vcxproj", "{34FD79D5-5630-4225-8AD3-6D79B56731C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{8A4326DE-D876-4D48-9C5E-6FAD783D899D}.Release|x64.Build.0 = Release|x64
 		{8A4326DE-D876-4D48-9C5E-6FAD783D899D}.Release|x86.ActiveCfg = Release|Win32
 		{8A4326DE-D876-4D48-9C5E-6FAD783D899D}.Release|x86.Build.0 = Release|Win32
+		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Debug|x64.ActiveCfg = Debug|x64
+		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Debug|x64.Build.0 = Debug|x64
+		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Debug|x86.Build.0 = Debug|Win32
+		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Release|x64.ActiveCfg = Release|x64
+		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Release|x64.Build.0 = Release|x64
+		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Release|x86.ActiveCfg = Release|Win32
+		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
