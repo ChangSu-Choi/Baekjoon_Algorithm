@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3052나머지", "3052나머
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1546평균", "1546평균\1546평균.vcxproj", "{34FD79D5-5630-4225-8AD3-6D79B56731C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8959OX퀴즈", "8959OX퀴즈\8959OX퀴즈.vcxproj", "{C3B42912-EEE9-417F-BE63-D10C339C5BBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Release|x64.Build.0 = Release|x64
 		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Release|x86.ActiveCfg = Release|Win32
 		{34FD79D5-5630-4225-8AD3-6D79B56731C9}.Release|x86.Build.0 = Release|Win32
+		{C3B42912-EEE9-417F-BE63-D10C339C5BBC}.Debug|x64.ActiveCfg = Debug|x64
+		{C3B42912-EEE9-417F-BE63-D10C339C5BBC}.Debug|x64.Build.0 = Debug|x64
+		{C3B42912-EEE9-417F-BE63-D10C339C5BBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3B42912-EEE9-417F-BE63-D10C339C5BBC}.Debug|x86.Build.0 = Debug|Win32
+		{C3B42912-EEE9-417F-BE63-D10C339C5BBC}.Release|x64.ActiveCfg = Release|x64
+		{C3B42912-EEE9-417F-BE63-D10C339C5BBC}.Release|x64.Build.0 = Release|x64
+		{C3B42912-EEE9-417F-BE63-D10C339C5BBC}.Release|x86.ActiveCfg = Release|Win32
+		{C3B42912-EEE9-417F-BE63-D10C339C5BBC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
