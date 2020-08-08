@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8단계 문자열-11654아�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8단계 문자열-11720숫자의 합", "8단계 문자열-11720숫자의 합\8단계 문자열-11720숫자의 합.vcxproj", "{CE1F1A8C-1828-4E45-8ADF-469CE7EBE6A0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8단계 문자열-10809알파벳 찾기", "8단계 문자열-10809알파벳 찾기\8단계 문자열-10809알파벳 찾기.vcxproj", "{0374C77D-55E5-477B-B01A-6992B4BE43AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -193,6 +195,14 @@ Global
 		{CE1F1A8C-1828-4E45-8ADF-469CE7EBE6A0}.Release|x64.Build.0 = Release|x64
 		{CE1F1A8C-1828-4E45-8ADF-469CE7EBE6A0}.Release|x86.ActiveCfg = Release|Win32
 		{CE1F1A8C-1828-4E45-8ADF-469CE7EBE6A0}.Release|x86.Build.0 = Release|Win32
+		{0374C77D-55E5-477B-B01A-6992B4BE43AF}.Debug|x64.ActiveCfg = Debug|x64
+		{0374C77D-55E5-477B-B01A-6992B4BE43AF}.Debug|x64.Build.0 = Debug|x64
+		{0374C77D-55E5-477B-B01A-6992B4BE43AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{0374C77D-55E5-477B-B01A-6992B4BE43AF}.Debug|x86.Build.0 = Debug|Win32
+		{0374C77D-55E5-477B-B01A-6992B4BE43AF}.Release|x64.ActiveCfg = Release|x64
+		{0374C77D-55E5-477B-B01A-6992B4BE43AF}.Release|x64.Build.0 = Release|x64
+		{0374C77D-55E5-477B-B01A-6992B4BE43AF}.Release|x86.ActiveCfg = Release|Win32
+		{0374C77D-55E5-477B-B01A-6992B4BE43AF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -215,6 +225,7 @@ Global
 		{2393FC97-9DA3-4A31-9835-7ED433612305} = {96529E30-1115-4C3C-A8F8-16B2FD277E72}
 		{FDCE96E7-1332-45E7-8C69-7A203E218C8E} = {5F4CF076-CFA4-4B53-A57C-157ED17F3E01}
 		{CE1F1A8C-1828-4E45-8ADF-469CE7EBE6A0} = {5F4CF076-CFA4-4B53-A57C-157ED17F3E01}
+		{0374C77D-55E5-477B-B01A-6992B4BE43AF} = {5F4CF076-CFA4-4B53-A57C-157ED17F3E01}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BF6B6C90-6A47-4471-8301-353378768DD8}
