@@ -1,25 +1,30 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main()
 {
 	int test_case;
 	cin >> test_case;
-	int * a = new int[test_case];
-	char b[20];
+	string* input = new string[test_case];
+	string* result = new string[test_case];
 	for (int i = 0; i < test_case; i++)
 	{
-		cin >> a[i] >> b;
-		for (int k = 0; k < a[i]; k++)
+		int count;
+		cin >> count >> input[i];
+		for (int j = 0; j < input[i].size(); j++)
 		{
-			cout << b[i];
+			for (int k = 0; k < count; k++)
+			{
+				result[i] += input[i].at(j);
+			}
 		}
-
-		cout << "\n";
-
 	}
 
-
-	delete[] a;
+	for (int i = 0; i < test_case; i++)
+	{
+		cout << result[i] << "\n";
+	}
+	delete[] input;
 	return 0;
 }
