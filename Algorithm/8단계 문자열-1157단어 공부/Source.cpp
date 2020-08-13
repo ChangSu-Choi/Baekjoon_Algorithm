@@ -1,5 +1,5 @@
 #include <iostream>
-#define MAX 1000001
+#define MAX 100001
 using namespace std;
 
 int main()
@@ -13,7 +13,7 @@ int main()
 		{
 			alp[i] += 32;
 		}
-		cnt_num[alp[i] - 97]++;
+		cnt_num[(int)(alp[i] - 'a')]++;
 	}
 
 	int max = 0;
@@ -33,7 +33,7 @@ int main()
 	}
 	char result = 0;
 	if (max_index != -1)
-		cout << result + 65 + max_index;
+		cout << (char)(result + 65 + max_index);
 	else
 		cout << "?";
 
