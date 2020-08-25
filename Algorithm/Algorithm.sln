@@ -75,6 +75,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9단계 수학-1193분수�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9단계 수학-2869달팽이는 올라가고 싶다", "9단계 수학-2869달팽이는 올라가고 싶다\9단계 수학-2869달팽이는 올라가고 싶다.vcxproj", "{746AA2CC-C0E2-42A6-8D5E-30A109863070}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9단계 수학-10250ACM 호텔", "9단계 수학-10250ACM 호텔\9단계 수학-10250ACM 호텔.vcxproj", "{AD27B8CA-59F9-4C0F-B715-446873B5145B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -323,6 +325,14 @@ Global
 		{746AA2CC-C0E2-42A6-8D5E-30A109863070}.Release|x64.Build.0 = Release|x64
 		{746AA2CC-C0E2-42A6-8D5E-30A109863070}.Release|x86.ActiveCfg = Release|Win32
 		{746AA2CC-C0E2-42A6-8D5E-30A109863070}.Release|x86.Build.0 = Release|Win32
+		{AD27B8CA-59F9-4C0F-B715-446873B5145B}.Debug|x64.ActiveCfg = Debug|x64
+		{AD27B8CA-59F9-4C0F-B715-446873B5145B}.Debug|x64.Build.0 = Debug|x64
+		{AD27B8CA-59F9-4C0F-B715-446873B5145B}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD27B8CA-59F9-4C0F-B715-446873B5145B}.Debug|x86.Build.0 = Debug|Win32
+		{AD27B8CA-59F9-4C0F-B715-446873B5145B}.Release|x64.ActiveCfg = Release|x64
+		{AD27B8CA-59F9-4C0F-B715-446873B5145B}.Release|x64.Build.0 = Release|x64
+		{AD27B8CA-59F9-4C0F-B715-446873B5145B}.Release|x86.ActiveCfg = Release|Win32
+		{AD27B8CA-59F9-4C0F-B715-446873B5145B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -358,6 +368,7 @@ Global
 		{62A5BFBA-680F-4078-B0FD-6A9E2C0BDC56} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
 		{960A27D4-840B-4DA5-BC3F-2130BA594E12} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
 		{746AA2CC-C0E2-42A6-8D5E-30A109863070} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
+		{AD27B8CA-59F9-4C0F-B715-446873B5145B} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BF6B6C90-6A47-4471-8301-353378768DD8}
