@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9단계 수학-10250ACM 호
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9단계 수학-2775부녀회장이 될테야", "9단계 수학-2775부녀회장이 될테야\9단계 수학-2775부녀회장이 될테야.vcxproj", "{F00FA70F-2F7F-4FB9-A115-198DDE56ED9B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9단계 수학-1011Fly me to the Alpha centauria", "9단계 수학-1011Fly me to the Alpha centauria\9단계 수학-1011Fly me to the Alpha centauria.vcxproj", "{40E17D27-461F-471D-B06B-168DF16EDCE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -343,6 +345,14 @@ Global
 		{F00FA70F-2F7F-4FB9-A115-198DDE56ED9B}.Release|x64.Build.0 = Release|x64
 		{F00FA70F-2F7F-4FB9-A115-198DDE56ED9B}.Release|x86.ActiveCfg = Release|Win32
 		{F00FA70F-2F7F-4FB9-A115-198DDE56ED9B}.Release|x86.Build.0 = Release|Win32
+		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Debug|x64.ActiveCfg = Debug|x64
+		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Debug|x64.Build.0 = Debug|x64
+		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Debug|x86.Build.0 = Debug|Win32
+		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Release|x64.ActiveCfg = Release|x64
+		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Release|x64.Build.0 = Release|x64
+		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Release|x86.ActiveCfg = Release|Win32
+		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -380,6 +390,7 @@ Global
 		{746AA2CC-C0E2-42A6-8D5E-30A109863070} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
 		{AD27B8CA-59F9-4C0F-B715-446873B5145B} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
 		{F00FA70F-2F7F-4FB9-A115-198DDE56ED9B} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
+		{40E17D27-461F-471D-B06B-168DF16EDCE4} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BF6B6C90-6A47-4471-8301-353378768DD8}
