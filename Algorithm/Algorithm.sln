@@ -37,8 +37,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8단계 문자열", "8단�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9단계 수학 1", "9단계 수학 1", "{D538DFF1-4EC4-435F-8AEC-812C812CDA19}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10단계 수학 2", "10단계 수학 2", "{1CA4855D-1DAE-402F-B474-A1723E15E888}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15596정수 N개의 합", "15596정수 N개의 합\15596정수 N개의 합.vcxproj", "{EF501273-78B0-486E-B8B8-267ACF116421}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4673셀프 넘버", "4673셀프 넘버\4673셀프 넘버.vcxproj", "{5EF01B1D-A628-43CB-9D62-F8096CC92DC6}"
@@ -80,6 +78,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9단계 수학-2775부녀회장이 될테야", "9단계 수학-2775부녀회장이 될테야\9단계 수학-2775부녀회장이 될테야.vcxproj", "{F00FA70F-2F7F-4FB9-A115-198DDE56ED9B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9단계 수학-1011Fly me to the Alpha centauria", "9단계 수학-1011Fly me to the Alpha centauria\9단계 수학-1011Fly me to the Alpha centauria.vcxproj", "{40E17D27-461F-471D-B06B-168DF16EDCE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10단계 수학", "10단계 수학", "{499A9036-2320-4713-AB99-A3869D49D510}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10단계 수학-1978소수 찾기", "10단계 수학-1978소수 찾기\10단계 수학-1978소수 찾기.vcxproj", "{290CF2D5-30F9-45D4-81AA-2F561644FB06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -353,6 +355,14 @@ Global
 		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Release|x64.Build.0 = Release|x64
 		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Release|x86.ActiveCfg = Release|Win32
 		{40E17D27-461F-471D-B06B-168DF16EDCE4}.Release|x86.Build.0 = Release|Win32
+		{290CF2D5-30F9-45D4-81AA-2F561644FB06}.Debug|x64.ActiveCfg = Debug|x64
+		{290CF2D5-30F9-45D4-81AA-2F561644FB06}.Debug|x64.Build.0 = Debug|x64
+		{290CF2D5-30F9-45D4-81AA-2F561644FB06}.Debug|x86.ActiveCfg = Debug|Win32
+		{290CF2D5-30F9-45D4-81AA-2F561644FB06}.Debug|x86.Build.0 = Debug|Win32
+		{290CF2D5-30F9-45D4-81AA-2F561644FB06}.Release|x64.ActiveCfg = Release|x64
+		{290CF2D5-30F9-45D4-81AA-2F561644FB06}.Release|x64.Build.0 = Release|x64
+		{290CF2D5-30F9-45D4-81AA-2F561644FB06}.Release|x86.ActiveCfg = Release|Win32
+		{290CF2D5-30F9-45D4-81AA-2F561644FB06}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -391,6 +401,7 @@ Global
 		{AD27B8CA-59F9-4C0F-B715-446873B5145B} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
 		{F00FA70F-2F7F-4FB9-A115-198DDE56ED9B} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
 		{40E17D27-461F-471D-B06B-168DF16EDCE4} = {D538DFF1-4EC4-435F-8AEC-812C812CDA19}
+		{290CF2D5-30F9-45D4-81AA-2F561644FB06} = {499A9036-2320-4713-AB99-A3869D49D510}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BF6B6C90-6A47-4471-8301-353378768DD8}
